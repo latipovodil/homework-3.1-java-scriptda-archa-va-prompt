@@ -1,4 +1,4 @@
-alert("Begonalar va yosh bolalar kirishi taqiqlanadi")
+alert("Assalom alaykum saytga hush kelibsiz")
 
 var username = prompt("Ismingiz");
 
